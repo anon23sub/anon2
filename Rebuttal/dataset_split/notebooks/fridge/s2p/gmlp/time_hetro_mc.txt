@@ -1,0 +1,2 @@
+MLP training :Wall time: 16.6 s  MLP Calibration: Wall time: 2.33 s
+Isotonic Time: 689.00168 Total time: 707.9316799999999s
